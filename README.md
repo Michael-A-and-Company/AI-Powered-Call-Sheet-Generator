@@ -11,7 +11,7 @@ This Python script generates an AI-powered call sheet for political fundraising 
 
 1. Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/AI-Powered-Call-Sheet-Generator.git
+git clone https://github.com/Michael-A-and-Company/AI-Powered-Call-Sheet-Generator/
 
 
 2. Install dependencies (if any):
